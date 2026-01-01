@@ -17,3 +17,4 @@
 | Child    | 60%          |
 
 **Skills**: Pandas, Seaborn, EDA
+- ML model (Logistic Regression) with ~81% accuracy on test set.
